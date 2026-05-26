@@ -4,7 +4,7 @@ import { IconWhatsApp } from './ui/icons/IconWhatsApp'
 import { SectionLabel, SectionTitle } from './ui/Section'
 
 const CONTACT_INFO = [
-  { label: 'Endereço', value: 'Rua Gentil Rodrigues, 556 — Centro\nMarialva · PR' },
+  { label: 'Endereço', value: 'Rua Gentil Rodrigues, 506 — Vila Messias\nMarialva · PR' },
   { label: 'WhatsApp', value: '(44) 9 9915-3521' },
   { label: 'Instagram', value: '@dourado_lava_car_marialva' },
 ]
